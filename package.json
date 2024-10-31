@@ -1,0 +1,14 @@
+{
+  "name": "embed-other-post",
+  "version": "1.0.0",
+  "description": "Embed Other Post Gutenberg Block",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "zip": "npm run build && bestzip embed-other-post.zip build/* embed-other-post.php readme.txt"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^26.0.0",
+    "bestzip": "^2.2.1"
+  }
+}

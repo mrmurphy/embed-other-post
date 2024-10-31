@@ -1,0 +1,1 @@
+This is supposed to be a WordPress plugin that allows the user to pick one of their posts, and use dynamic content blocks to show info from that specific post, even within other posts! But I made it with AI and am not a WP developer, so it doesn't work yet.
